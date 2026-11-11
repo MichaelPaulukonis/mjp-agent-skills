@@ -2,6 +2,10 @@
 
 Skills I've written for Claude Code and other [Agent Skills](https://agentskills.io)-compatible agents.
 
+![Students at lathes in the Manual Training Shop, Illinois State Normal University, 1917](docs/img/manual-training-shop-1917.jpg)
+
+*Manual Training Shop, Illinois State Normal University, Normal, Ill. Stereograph, Keystone View Company, 1917. [Library of Congress](https://www.loc.gov/item/2018647661/), Stereograph Cards collection. No known restrictions on publication.*
+
 ## Two tiers
 
 - **`skills/`** - installable. No personal paths, no dependencies on my private setup.
